@@ -38,10 +38,9 @@ Become a Full Stack Developer.
 
 - ✅ Introduction
 - ✅ Data Types
-- ⏳ Operators
+- ✅ Operators
+- ⏳ Scanner Class
+- ⏳ If-Else
 - ⏳ Loops
-- ⏳ OOP
-
----
 
 ⭐ Thanks for visiting my repository!
