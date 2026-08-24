@@ -21,4 +21,8 @@ class Calculator {
     double add(double a, double b) {
         return a + b;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 430582e (Organize Java programs into folders)
