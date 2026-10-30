@@ -20,6 +20,10 @@ Here is a day-wise record of the Java concepts I have studied and practised.
 | 04 | Enum Basics | [📂 Enum](./Enum) |
 | 05 | Immutable Classes | [📂 Immutable](./Immutable) |
 | 06 | OOP – Inheritance, Polymorphism & Abstraction | [📂 OOPS](./OOPS) |
+| 07 | Strings | [📂 Strings](./Strings) |
+| 08 | Interfaces | [📂 Interface](./Interface) |
+| 09 | Generics | [📂 Generics](./Generics) |
+| 10 | Java Collections Framework | [📂 Collection Frameworks](./Collection%20Frameworks) |
 
 ---
 
